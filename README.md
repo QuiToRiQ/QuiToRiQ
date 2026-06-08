@@ -13,7 +13,7 @@
 
 ---
 
-## 🎮 About me
+## About me
 
 Unreal Engine Gameplay Programmer with experience building complex gameplay systems in **C++** and **Blueprints** — focused on character movement, animation architecture, physics-based interactions, and developer tooling. I enjoy solving technical challenges that bridge realistic physics and fluid player control.
 
@@ -36,7 +36,7 @@ Unreal Engine Gameplay Programmer with experience building complex gameplay syst
 
 ---
 
-## 🎬 Gameplay showcase
+## Gameplay showcase
 
 Gameplay systems I built at **AEstelle Studios** in C++ / Unreal Engine.
 
