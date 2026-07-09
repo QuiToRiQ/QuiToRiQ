@@ -65,8 +65,9 @@ Calculates precise hit direction and distributes force across affected body part
 ### 🖱️ [Keyboard To Mouse (K2M)](https://github.com/QuiToRiQ/K2M)
 Desktop utility that maps keyboard input to mouse actions — navigate, edit, and control your workspace without ever leaving the keyboard.
 
-<!-- Add a short demo gif here: drag a .gif into the repo and reference it -->
-<!-- ![K2M demo](assets/k2m-demo.gif) -->
+<p align="center">
+  <img src="assets/k2m-demo.webp" alt="K2M — editing without touching the mouse" width="240">
+</p>
 
 ### ♟️ [Dōbutsu Shōgi — Your Miniature Chess Adversary](https://github.com/QuiToRiQ/Your-Miniature-Chess-Adversary)
 A full Dōbutsu Shōgi game for **RP2040 / Arduino**: AI opponent, capture-and-drop mechanics, piece promotion, and a LittleFS-based save system that persists game state across power cycles — all on a single Pico, played with just its `BOOTSEL` button.
