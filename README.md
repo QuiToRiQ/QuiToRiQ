@@ -78,15 +78,6 @@ A full Dōbutsu Shōgi game for **RP2040 / Arduino**: AI opponent, capture-and-d
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuiToRiQ&show_icons=true&theme=default&hide_border=true" alt="Oleh's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuiToRiQ&layout=compact&hide_border=true" alt="Top languages" height="165">
-</p>
-
----
-
 ## 📫 Get in touch
 
 - 📧 **Email:** oleh.work.address@gmail.com
